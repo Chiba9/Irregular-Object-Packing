@@ -6,7 +6,7 @@ This is an old version of our code and we are keeping updating.
 
 ## Quick Start
 
-The code is based on PyTorch. Please prepare the object file from YCB and OCRTOC and put them into “objects” folder. Run env.generate() to generate index of object files. And then run main.py to train the model. 
+The code is based on PyTorch. Please prepare the object files from YCB and OCRTOC and put them into “objects” folder. Run env.generate() to generate index of object files. And then run main.py to train the model. 
 
  
 ## Repo organization 
